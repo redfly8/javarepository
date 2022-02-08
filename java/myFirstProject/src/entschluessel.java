@@ -8,13 +8,13 @@ public class entschluessel {
     
        
 
-        int chiffSchluessel; //schl�ssel
+        int chiffSchluessel; //schlüssel
 
         
         x = eingabe.next();  
         System.out.println("nun, geben Sie den Schlüssel ein.");
         chiffSchluessel = eingabe.nextInt(); 
-        char buchstabe = x.charAt(0); //buchstabe zum entschl�sseln
+        char buchstabe = x.charAt(0); //buchstabe zum entschlüsseln
         System.out.println(buchstabe + " mit dem Schlüssel " +chiffSchluessel); 
 
 
