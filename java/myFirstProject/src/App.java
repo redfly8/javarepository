@@ -2,10 +2,8 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args)  {
-<<<<<<< Updated upstream
-  
-       
-=======
+
+
         Scanner input = new Scanner(System.in);
         System.out.print("Wie viele Karten wollen Sie?");
         int anzkart = input.nextInt();
@@ -39,7 +37,7 @@ public class App {
             System.out.print("ok, abgebrochen");
         }
 
->>>>>>> Stashed changes
+
        
         
 
